@@ -1,0 +1,1 @@
+provavelmente isso so vai ser desenvolvidor quando finalizar o backend, e vou estar usar algo como, taywind css, react e next js.
