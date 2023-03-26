@@ -1,5 +1,25 @@
 {
-	"devDependencies": {
-		"git-commit-msg-linter": "4.8.2"
-	}
+  "name": "yes-another-to-do-list",
+  "version": "0.0.1",
+  "description": "My contribution to yet another to-do list in the universe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Marlon Passos",
+    "email": "1marlonpassos@gmail.com"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">= 18.0.0",
+    "pnpm": ">= 7.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.5.0",
+    "@commitlint/config-conventional": "^17.4.4",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.0"
+  }
 }
