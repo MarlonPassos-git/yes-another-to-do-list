@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  git-commit-msg-linter: 4.9.2
+  git-commit-msg-linter: 4.8.2
 
 devDependencies:
-  git-commit-msg-linter: 4.9.2
+  git-commit-msg-linter: 4.8.2
 
 packages:
 
@@ -46,8 +46,8 @@ packages:
     engines: {node: '>=0.8.0'}
     dev: true
 
-  /git-commit-msg-linter/4.9.2:
-    resolution: {integrity: sha512-a51/JHhnMTJwrIAK0yN/RtTL967KfmQdQEX6XrsIiSuJcrUIpgOTan1fVNWW4pWBe2m7TqF06Ha319FBDVvYww==}
+  /git-commit-msg-linter/4.8.2:
+    resolution: {integrity: sha512-aIYqIsktbXJ566ANkypxCWtxYZsvDfLwxYD4YGS5fd4QTCTU+4+irRq+qmmbwT5FC2V0WXK7mlL1OSx+KPFQ3w==}
     engines: {node: '>= 8.0.0'}
     hasBin: true
     requiresBuild: true
